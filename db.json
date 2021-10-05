@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn Vue3",
+      "day": "May 4th at 4pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Learned Vue3",
+      "day": "March 3rd at 11am",
+      "reminder": false
+    },
+    {
+      "id": 82784,
+      "text": "Dentist",
+      "day": "Monday 8th 3pm",
+      "reminder": false
+    },
+    {
+      "text": "Dentist",
+      "day": "Monday 8th 3pm",
+      "reminder": false,
+      "id": 82785
+    },
+    {
+      "text": "Brian",
+      "day": "Today",
+      "reminder": false,
+      "id": 82786
+    },
+    {
+      "text": "Buy batteries",
+      "day": "Tomorrow at 3pm",
+      "reminder": true,
+      "id": 82787
+    }
+  ]
+}
