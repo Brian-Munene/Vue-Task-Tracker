@@ -1,4 +1,6 @@
-# task-manager
+# Task-manager
+
+Small tutorial to learn Vue3
 
 ## Project setup
 ```
